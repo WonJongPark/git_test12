@@ -2,6 +2,7 @@
 
 int main() {
     std::cout << "3\n";
-
-    return 0;
+    std::cout << "5\n";
+	
+	return 0;
 }
