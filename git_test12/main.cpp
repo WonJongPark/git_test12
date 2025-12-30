@@ -1,3 +1,8 @@
+#include <iostream>
+
 int main() {
-    return 0;
+	
+	std::cout << "4\n";
+
+	return 0;
 }
